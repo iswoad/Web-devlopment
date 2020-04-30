@@ -1,0 +1,30 @@
+body{
+	margin: 0px ;
+}
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+h1{
+	font-style: italic;
+	font-size: 3em;
+	border-bottom: 5px solid pink;
+	width: 500px; 
+	text-align: center;
+	border-right: 5px solid pink;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 10px;
+}
+
+
+img{
+	width: 450px;
+	height: 300px;
+	margin: 10px;
+	transition: all 1s;
+	cursor: pointer;
+}
+img:hover{
+	transform: scale(1.1);
+}
