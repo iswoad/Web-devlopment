@@ -1,0 +1,423 @@
+body{
+	margin:0;
+}
+.row1{
+
+	background:#ffffff;
+	padding:20px;
+	margin: 5px;
+	overflow: hidden;
+}
+.middle{
+	width: 40%;
+	text-align: center;
+	float: left;
+}
+.middle h1{
+	font-size:60px;
+	font-weight:400;
+	letter-spacing: 1.5px;
+	color:#616161;
+}
+.middle p{
+	line-height: 1;
+	font-size:30px;
+
+}
+.middle a{
+	background: #616161;
+	display:inline-block;
+	text-decoration: none;
+	color:#ffffff;
+	padding:10px;
+}
+.right{
+	background: #f1f1f1;
+	width:40%;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	float: right;
+	box-shadow: 3px 3px 3px #616161;
+}
+.right h1{
+	font-weight: 400;
+}
+.right p{
+	background: #ffffff;
+	border-left: 5px solid green;
+	padding: 15px;
+	text-align: justify;
+}
+.right a{
+	display: inline-block;
+	padding: 5px;
+	background: green;
+	color: #ffffff;
+	text-decoration: none;
+}
+.row4{
+	background: #f1f1f1;
+	padding: 20px;
+	overflow: hidden;
+}
+.row4 div{
+	background: #fff;
+	width: 30%;
+	text-align:center;
+	float: left;
+	padding: 15px;
+	margin-right: 4%;
+	box-sizing: border-box;
+
+}
+.row4 .jquery{
+	margin-right: 0;
+}
+.row4 h1{
+	font-family: arial;
+	font-weight: normal;
+	font-transform:uppercase;
+
+}
+.row4 p{
+	font-size: 25px;
+	color: #616161;
+}
+.row4 a{
+	display: inline-block;
+	background: #616161;
+	color: white;
+	padding: 5px;
+	text-decoration: none;
+}
+.row2{
+
+	background: #f1f1f1;
+	padding:20px;
+	margin: 5px;
+	overflow: hidden;
+}
+.right1{
+	width: 40%;
+	text-align: center;
+	float: left;
+	margin-left: 150px;
+}
+.right1 h1{
+	font-size:60px;
+	font-weight:400;
+	letter-spacing: 1.5px;
+	color:#616161;
+}
+.right1 p{
+	line-height: 1;
+	font-size:30px;
+
+}
+.right1 a{
+	background: #616161;
+	display:inline-block;
+	text-decoration: none;
+	color:#ffffff;
+	padding:10px;
+}
+.middle1{
+	background: #f1f1f1;
+	width:40%;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	float: left;
+	margin-right: 20px;
+}
+.middle1 h1{
+	font-weight: 400;
+}
+.middle1 p{
+	background: #ffffff;
+	border-left: 5px solid green;
+	padding: 15px;
+	text-align: justify;
+}
+.middle1 a{
+	display: inline-block;
+	padding: 5px;
+	background: green;
+	color: #ffffff;
+	text-decoration: none;
+}
+.row3{
+
+	background: #ffffff;
+	padding:20px;
+	margin: 5px;
+	overflow: hidden;
+}
+.middle2{
+	width: 40%;
+	text-align: center;
+	float: left;
+}
+.middle2 h1{
+	font-size:60px;
+	font-weight:400;
+	letter-spacing: 1.5px;
+	color:#616161;
+}
+.middle2 p{
+	line-height: 1;
+	font-size:30px;
+
+}
+.middle2 a{
+	background: #616161;
+	display:inline-block;
+	text-decoration: none;
+	color:#ffffff;
+	padding:10px;
+}
+.right2{
+	background: #f1f1f1;
+	width:40%;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	float: right;
+	box-shadow: 3px 3px 3px #616161;
+}
+.right2 h1{
+	font-weight: 400;
+}
+.right2 p{
+	background: #ffffff;
+	border-left: 5px solid green;
+	padding: 15px;
+	text-align: justify;
+}
+.right2 a{
+	display: inline-block;
+	padding: 5px;
+	background: green;
+	color: #ffffff;
+	text-decoration: none;
+}
+.row5{
+	background: #ffffff;
+	padding: 20px;
+	overflow: hidden;
+}
+.row5 div{
+	background: #fff;
+	width: 30%;
+	text-align:center;
+	float: left;
+	padding: 15px;
+	margin-right: 4%;
+	box-sizing: border-box;
+
+}
+.row5 .bootstrap{
+	margin-right: 0;
+}
+.row5 h1{
+	font-family: arial;
+	font-weight: normal;
+	font-transform:uppercase;
+
+}
+.row5 p{
+	font-size: 25px;
+	color: #616161;
+}
+.row5 a{
+	display: inline-block;
+	background: #616161;
+	color: white;
+	padding: 5px;
+	text-decoration: none;
+}
+.row6{
+	background: #F1F1F1;
+	padding: 20px;
+	margin:0;
+	text-align: justify;
+	text-align: center;
+}
+.row6 h1{
+	font-weight: normal;
+	font-size: 45px;
+	color: black;
+	
+}
+.row6 p{
+	color: #616161;
+	font-size: 25px;
+	
+}
+
+.row6 a{
+	background: #616161;
+	color: #ffffff;
+	padding: 8px;
+	display: inline-block;
+	text-decoration: none;
+	margin-left:500px; 
+	margin-right: 500px;
+}
+footer{
+	overflow: hidden;
+	background: #616161;
+	position: relative;
+	padding: 20px;
+	margin-bottom: 30px;
+}
+footer .row1{
+	background: #616161;
+	padding: 10px;
+	overflow: hidden;
+	
+}
+	
+footer .row1 a{
+	text-decoration: none;
+	color: #000000;
+	background-color: #F1F1F1;
+	padding: 10px;
+	margin-top: 20px;
+	float:left;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+footer .row2{
+	background-color: #616161;
+	position:absolute;
+	top: 30px;
+	right: 0;
+	float: right;
+	margin-bottom: 50px;
+}
+footer .row2 a{
+	text-decoration: none;
+	color: #F1F1F1;
+	padding: 5px;
+}
+footer .row2 span{
+	color: #f1f1f1;
+}
+footer p{
+	color: white;
+	text-align: center;
+}
+footer .row2 a:hover{
+	color: #4CAF50;
+
+}
+footer .row1 a:hover{
+	color: #f1f1f1;
+	background: #616161;
+	box-shadow: 1px 1px 1px 1px #616161;
+
+}
+
+.contentarea{
+	overflow: hidden;
+}
+.content{
+	width: 85%;
+	float: right;
+	box-sizing: border-box;
+	border-left: 1.5px #616161;
+}
+aside {
+	width:15%;
+	float: left;
+	text-align: justify;
+}
+
+aside ul{
+	padding: 0px;
+}
+aside ul a{
+	text-decoration: none;
+	color: black;
+	padding-left:7px;
+	font-size:18px;
+	font-weight: 400;
+
+}
+aside ul li:hover{
+	background: #CCCCCC;
+	color: black;
+
+}
+ul li{
+	list-style:none;
+}
+header h1 span.s1{
+	color: #616161;
+
+}
+header h1 span.s2{
+	color:green;
+}
+header{
+	overflow: hidden;
+}	
+header h1{
+	float: left;
+	margin:20px;
+}
+header h2{
+	float: right;
+	margin-top: 20px;
+	margin-right: 15px;
+	font-weight: 400;
+	font-size: 18px;
+	letter-spacing: 2px;
+
+}
+nav{
+	overflow: hidden;
+	background: #4CAF50;
+	padding-bottom: 0;
+}
+nav ul{
+	background: #4CAF50;
+	display: block;
+	color: #f1f1f1;
+	float: left;
+	text-decoration: none;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	
+}
+nav ul li{
+	display: inline;
+	overflow: hidden;
+}
+nav ul li a{
+	display: inline-block;
+	color: #FFFFFF;
+	text-decoration: none;
+	position: relative;
+	letter-spacing: 2px;
+	padding: 15px;
+	padding-bottom: 10px;
+	margin:0;
+	font-size: 20px;
+}
+nav ul li a:hover{
+	background: white;
+	color: black;
+
+}
+nav ul li ul li{
+	display:block;
+
+}
